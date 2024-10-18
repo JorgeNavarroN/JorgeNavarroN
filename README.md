@@ -1,12 +1,20 @@
 ## Trust God
 
-### Hola👋, soy un desarrollador junior con muchas ganas de aportar 😃
+#### Hola👋, soy un desarrollador junior con muchas ganas de aportar 😃
 
-Las tecnologias que me apasionan:
+### Mi proyecto destacado:
+
+- 🌟 Buscador del clima: [waveweather.netlify.app](https://waveweather.netlify.app/)
+
+###🖥️ Las tecnologias que me apasionan:
 
 - Java (SpringBoot)
 - HTML, CSS, JavaScript (React.js)
 
-Tambien tengo conocimientos en:
+### Tambien tengo conocimientos en:
+
 - Python.
 - SQL
+
+> *El alma del perezoso desea, y nada alcanza; Mas el alma de los diligentes será prosperada. (Proverbios 13:4)*
+
