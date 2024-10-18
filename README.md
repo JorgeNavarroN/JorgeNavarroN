@@ -6,7 +6,7 @@
 
 - 🌟 Buscador del clima: [waveweather.netlify.app](https://waveweather.netlify.app/)
 
-###🖥️ Las tecnologias que me apasionan:
+### 🖥️ Las tecnologias que me apasionan:
 
 - Java (SpringBoot)
 - HTML, CSS, JavaScript (React.js)
