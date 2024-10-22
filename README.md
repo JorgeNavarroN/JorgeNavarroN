@@ -1,4 +1,4 @@
-## Trust God
+## Confía en Dios
 
 #### Hola👋, soy un desarrollador junior con muchas ganas de aportar 😃
 
