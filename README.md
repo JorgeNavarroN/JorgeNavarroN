@@ -8,8 +8,8 @@
 
 ### 🖥️ Las tecnologias que me apasionan:
 
+- HTML, CSS, JavaScript (React.js, React Native)
 - Java (SpringBoot)
-- HTML, CSS, JavaScript (React.js)
 
 ### Tambien tengo conocimientos en:
 
