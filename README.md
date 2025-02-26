@@ -1,20 +1,20 @@
 ## Trust God
 
-#### Hola👋, soy un desarrollador junior con muchas ganas de aportar 😃
+#### Hello👋, I'm a junior developer eager to contribute 😃
 
-### Mi proyecto destacado:
+### My featured project:
 
-- 🌟 Buscador del clima: [waveweather.netlify.app](https://waveweather.netlify.app/)
+- 🌟 Weather search engine: [waveweather.netlify.app](https://waveweather.netlify.app/)
 
-### 🖥️ Las tecnologias que me apasionan:
+### 🖥️ The technologies I'm passionate about:
 
 - HTML, CSS, JavaScript (React.js, Tailwind CSS)
 - Java (SpringBoot)
 
-### Tambien tengo conocimientos en:
+### I also have knowledge in:
 
 - Python.
 - SQL
 
-> *El alma del perezoso desea, y nada alcanza; Mas el alma de los diligentes será prosperada. (Proverbios 13:4)*
+> *The soul of the lazy man desireth, and obtaineth nothing: but the soul of the diligent shall prosper. (Proverbs 13:4)*
 
