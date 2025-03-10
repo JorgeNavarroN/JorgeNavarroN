@@ -16,5 +16,3 @@
 - Python.
 - SQL
 
-> *The soul of the lazy man desireth, and obtaineth nothing: but the soul of the diligent shall prosper. (Proverbs 13:4)*
-
