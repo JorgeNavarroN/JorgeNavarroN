@@ -1,4 +1,4 @@
-## Christ is the way, the truth, and the life
+## Christ is the way, the truth, and the life '[Juan 14:6]'
 
 #### Hello👋, I'm a junior developer eager to contribute 😃
 
