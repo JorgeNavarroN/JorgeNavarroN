@@ -1,4 +1,4 @@
-## Trust God
+## Christ is the way, the truth, and the life
 
 #### Hello👋, I'm a junior developer eager to contribute 😃
 
